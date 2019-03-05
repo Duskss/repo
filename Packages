@@ -11,3 +11,17 @@ Filename: ./debs/com.hydri.myproject.deb
 Dipiction: https://hydridev.github.io/repo/depictions/myproject
 Size: 4858
 MD5sum: ddd7814b2a539df9d1b6f22d88edad00
+
+Package: com.hydri.respringnoti
+Name: RespringNoti
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Displays a notification on respring.
+Maintainer: Hydri <twitchtv.hydri@gmail.com>
+Author: Hydri <twitchtv.hydri@gmail.com>
+Section: Tweaks
+Filename: ./debs/com.hydri.respringnoti.deb
+Dipiction: https://hydridev.github.io/repo/depictions/respringnoti
+Size: 4950
+MD5sum: a45cc126715b14a834ada536e78ef661
