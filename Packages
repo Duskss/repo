@@ -26,3 +26,18 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
+Package: com.hydri.mypackage
+Name: mypackage
+Depends: mobilesubstrate, preferenceloader
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: An awesome Cydia Substrate tweak.
+Maintainer: Hydri <twitchtv.hydri@gmail.com>
+Author: Hydri <twitchtv.hydri@gmail.com>
+Section: Tweaks
+Homepage: http://iperis.net
+Sponsor: iPeris.net <http://iperis.net>
+Filename: ./debs/com.hydri.mypackage.deb
+Depiction: https://hydridev.github.io/repo/depictions/mypackage
+Size: 33532
+MD5sum: 7178F6D9A5630B69351874B842505B5A
