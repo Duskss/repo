@@ -1,21 +1,7 @@
-Package: com.hydri.myproject
-Name: Myproject
-Depends: mobilesubstrate
-Version: 0.0.1
-Architecture: iphoneos-arm
-Description: An awesome MobileSubstrate tweak!
-Maintainer: Hydri <twitchtv.hydri@gmail.com>
-Author: Hydri <twitchtv.hydri@gmail.com>
-Section: Tweaks
-Filename: ./debs/com.hydri.myproject.deb
-Dipiction: https://hydridev.github.io/repo/depictions/myproject
-Size: 4858
-MD5sum: ddd7814b2a539df9d1b6f22d88edad00
-
 Package: com.hydri.respringnoti
 Name: RespringNoti
 Depends: mobilesubstrate
-Version: 0.0.1
+Version: 1.0.0
 Architecture: iphoneos-arm
 Description: Displays a notification on respring.
 Maintainer: Hydri <twitchtv.hydri@gmail.com>
@@ -23,5 +9,5 @@ Author: Hydri <twitchtv.hydri@gmail.com>
 Section: Tweaks
 Filename: ./debs/com.hydri.respringnoti.deb
 Dipiction: https://hydridev.github.io/repo/depictions/respringnoti
-Size: 10140
-MD5sum: 211a3633c50695dca1ac7741595b0889
+Size: 15202
+MD5sum: 7ee009a57bddd72480d7c86c3859ebb0

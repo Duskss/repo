@@ -1,7 +1,7 @@
 <package>
 	<id>com.hydri.respringnoti</id>
 	<name>RespringNoti</name>
-	<version>0.0.1</version>
+	<version>1.0.0</version>
 	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOS>
@@ -14,8 +14,8 @@
 		<description>Displays a notification on respring.</description>
 	</descriptionlist>
 	<changelog>
-		<version>0.0.1</version>
-		<change>Initial Release</change>
+		<version>1.0.0</version>
+		<change>Full Release</change>
 	</changelog>
 	<links>
 		<link>
