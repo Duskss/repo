@@ -11,7 +11,7 @@
 		<package>mobilesubstrate</package>
 	</dependencies>
 	<descriptionlist>
-		<description>Displays a notification on respring.</description>
+		<description>Displays a alert on respring.</description>
 	</descriptionlist>
 	<changelog>
 		<version>1.0.0</version>
