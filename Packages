@@ -3,11 +3,11 @@ Name: RespringNoti
 Depends: mobilesubstrate
 Version: 1.0.0
 Architecture: iphoneos-arm
-Description: Displays a alert on respring.
+Description: Displays an alert on respring.
 Maintainer: Hydri <twitchtv.hydri@gmail.com>
 Author: Hydri <twitchtv.hydri@gmail.com>
 Section: Tweaks
 Filename: ./debs/com.hydri.respringnoti.deb
 Dipiction: https://hydridev.github.io/repo/depictions/respringnoti
 Size: 15198
-MD5sum: f57afee4093afc2030b6be107384fd8e
+MD5sum: 27f0ff750a1929a1dedb5ddf81759295
