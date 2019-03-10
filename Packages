@@ -11,3 +11,17 @@ Filename: ./debs/com.hydri.respringnoti.deb
 Dipiction: https://hydridev.github.io/repo/depictions/respringnoti
 Size: 15198
 MD5sum: 27f0ff750a1929a1dedb5ddf81759295
+
+Package: com.hydri.wificolor
+Name: WifiColor
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Hydri <twitchtv.hydri@gmail.com>
+Author: Hydri <twitchtv.hydri@gmail.com>
+Section: Tweaks
+Filename: ./debs/com.hydri.wificolor.deb
+Dipiction: https://hydridev.github.io/repo/depictions/wificolor
+Size: 4028
+MD5sum: 8d735b1a9edb28eb335551f4796ef7fe
