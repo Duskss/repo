@@ -1,31 +1,3 @@
-Package: com.hydri.respringnoti
-Name: RespringNoti
-Depends: mobilesubstrate
-Version: 1.0.0
-Architecture: iphoneos-arm
-Description: Displays an alert on respring.
-Maintainer: Hydri <twitchtv.hydri@gmail.com>
-Author: Hydri <twitchtv.hydri@gmail.com>
-Section: Tweaks
-Filename: ./debs/com.hydri.respringnoti.deb
-Dipiction: https://hydridev.github.io/repo/depictions/respringnoti
-Size: 15198
-MD5sum: 27f0ff750a1929a1dedb5ddf81759295
-
-Package: com.hydri.wificolor
-Name: WifiColor
-Depends: mobilesubstrate
-Version: 0.0.1
-Architecture: iphoneos-arm
-Description: An awesome MobileSubstrate tweak!
-Maintainer: Hydri <twitchtv.hydri@gmail.com>
-Author: Hydri <twitchtv.hydri@gmail.com>
-Section: Tweaks
-Filename: ./debs/com.hydri.wificolor.deb
-Dipiction: https://hydridev.github.io/repo/depictions/wificolor
-Size: 4026
-MD5sum: 1e949fca5171ee2a7e5a1cc6b399d971
-
 Package: com.hydri.sbtaps
 Name: SBTaps
 Depends: mobilesubstrate
@@ -38,4 +10,4 @@ Section: Tweaks
 Filename: ./debs/com.hydri.sbtaps.deb
 Dipiction: https://hydridev.github.io/repo/depictions/sbtaps
 Size: 18572
-MD5sum: 6a024e5b7e31b1ce210e92b78634d720
+MD5sum: e034a449cb57338f64df8908760fc273
