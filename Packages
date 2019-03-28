@@ -25,3 +25,17 @@ Filename: ./debs/com.hydri.wificolor.deb
 Dipiction: https://hydridev.github.io/repo/depictions/wificolor
 Size: 4026
 MD5sum: 1e949fca5171ee2a7e5a1cc6b399d971
+
+Package: com.hydri.sbtaps
+Name: SBTaps
+Depends: mobilesubstrate, preferenceloader
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: When you click Wifi bars it turns off wifi, Cellular bars turns on wifi, Battery turns on/off low power mode.
+Maintainer: Hydri <twitchtv.hydri@gmail.com>
+Author: Hydri <twitchtv.hydri@gmail.com>
+Section: Tweaks
+Filename: ./debs/com.hydri.sbtaps.deb
+Dipiction: https://hydridev.github.io/repo/depictions/sbtaps
+Size: 40862
+MD5sum: 3a29b37fa78955275de4ba5a032c48b7

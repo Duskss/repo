@@ -1,0 +1,28 @@
+<package>
+	<id>com.hydri.sbtaps</id>
+	<name>SBTaps</name>
+	<version>1.0.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>preferenceloader</package>
+	</dependencies>
+	<descriptionlist>
+		<description>When you click Wifi bars it turns off wifi, Cellular bars turns on wifi, Battery turns on/off low power mode.</description>
+	</descriptionlist>
+	<changelog>
+		<version>1.0.0</version>
+		<change>Full Release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
