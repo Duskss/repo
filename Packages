@@ -3,7 +3,7 @@ Name: SBTaps
 Depends: mobilesubstrate
 Version: 1.0.0
 Architecture: iphoneos-arm
-Description: When you click Wifi bars it turns off wifi, Cellular bars turns on wifi, Battery turns on/off low power mode, Airplane turns off airplane mode, Swipe left on status bar to decrease brightness by %10, Swipe right to decrease brightness by 10% (Brightness swipes only work in springboard) and long press on any of them to go to corresponding settings pages.
+Description: When you click Wifi bars it turns off wifi, Cellular bars turns on wifi, Battery turns on/off low power mode, Airplane turns off airplane mode, Swipe right on status bar to increase brightness by %10, Swipe left to decrease brightness by 10% (Brightness swipes only work in springboard) and long press on any of them to go to corresponding settings pages.
 Maintainer: Hydri <twitchtv.hydri@gmail.com>
 Author: Hydri <twitchtv.hydri@gmail.com>
 Section: Tweaks
