@@ -16,13 +16,7 @@
 	</descriptionlist>
 	<changelog>
 		<version>1.0.0</version>
-		<change>Full Release</change>
+		<change>Initial release</change>
 	</changelog>
-	<links>
-		<link>
-			<name>/r/jailbreak</name>
-			<url>https://www.reddit.com/r/jailbreak</url>
-			<iconclass>fa fa-reddit</iconclass>
-		</link>
-	</links>
+	<links></links>
 </package>
