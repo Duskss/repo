@@ -1,0 +1,21 @@
+<package>
+	<id>com.hydri.noarrows</id>
+	<name>NoArrows</name>
+	<version>1.0.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<descriptionlist>
+		<description>Removes table cell ">" arrows.</description>
+	</descriptionlist>
+	<changelog>
+		<version>1.0.0</version>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>

@@ -11,3 +11,17 @@ Filename: ./debs/com.hydri.sbtaps.deb
 Dipiction: https://hydridev.github.io/repo/depictions/?p=com.hydri.sbtaps
 Size: 13632
 MD5sum: 0624550d9b5c81fafc193b4d01e608c8
+
+Package: com.hydri.noarrows
+Name: NoArrows
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Removes table cell ">" arrows.
+Maintainer: Hydri <twitchtv.hydri@gmail.com>
+Author: Hydri <twitchtv.hydri@gmail.com>
+Section: Tweaks
+Filename: ./debs/com.hydri.noarrows.deb
+Dipiction: https://hydridev.github.io/repo/depictions/?p=com.hydri.noarrows
+Size: 4474
+MD5sum: f6c25d4046d36102f4c668be54382247
