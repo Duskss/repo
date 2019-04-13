@@ -1,6 +1,6 @@
 {
   "minVersion": "0.1",
-  "headerImage": "",
+  "headerImage": "https://i.vgy.me/r9WiHi.png",
   "tintColor": "#00FFFF",
   "tabs": [
     {
@@ -17,13 +17,13 @@
           "itemSize": "{160, 275.41333333333336}",
           "screenshots": [
             {
-              "accessibilityText": "Before",
+              "accessibilityText": "Screenshot",
               "url": "https://i.imgur.com/ea4PTM5.png",
               "fullSizeURL": "https://i.imgur.com/ea4PTM5.png"
             },
 
             {
-              "accessibilityText": "After",
+              "accessibilityText": "Screenshot",
               "url": "https://i.imgur.com/PPhtY9S.png",
               "fullSizeURL": "https://i.imgur.com/PPhtY9S.png"
             }
@@ -33,13 +33,13 @@
             "itemSize": "{320, 550.8266666666667}",
             "screenshots": [
               {
-              "accessibilityText": "Before",
+              "accessibilityText": "Screenshot",
               "url": "https://i.imgur.com/ea4PTM5.png",
               "fullSizeURL": "https://i.imgur.com/ea4PTM5.png"
             },
 
             {
-              "accessibilityText": "After",
+              "accessibilityText": "Screenshot",
               "url": "https://i.imgur.com/PPhtY9S.png",
               "fullSizeURL": "https://i.imgur.com/PPhtY9S.png"
             }
