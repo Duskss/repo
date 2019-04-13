@@ -1,7 +1,7 @@
 {
   "minVersion": "0.1",
   "headerImage": "",
-  "tintColor": "",
+  "tintColor": "#00FFFF",
   "tabs": [
     {
       "tabname": "Details",
