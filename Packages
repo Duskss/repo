@@ -12,7 +12,6 @@ SHA256: a8a904b7c9c48eb965c50050d9a6350f082f3277a898e1e7d2ea229daa255382
 Section: Tweaks
 Description: Removes table cell ">" arrows.
 Author: Hydri <twitchtv.hydri@gmail.com>
-Depiction: https://hydridev.github.io/repo/depictions/?p=com.hydri.noarrows
 Name: NoArrows
 Depiction: https://hydridev.github.io/repo/depictions/?p=com.hydri.noarrows
 
