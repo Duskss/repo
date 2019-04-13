@@ -18,14 +18,8 @@
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
-              "url": "https://i.imgur.com/ea4PTM5.png",
-              "fullSizeURL": "https://i.imgur.com/ea4PTM5.png"
-            },
-
-            {
-              "accessibilityText": "Screenshot",
-              "url": "https://i.imgur.com/PPhtY9S.png",
-              "fullSizeURL": "https://i.imgur.com/PPhtY9S.png"
+              "url": "https://media.discordapp.net/attachments/566731171744972801/566759766354034728/Img2.PNG",
+              "fullSizeURL": "https://media.discordapp.net/attachments/566731171744972801/566759766354034728/Img2.PNG"
             }
           ],
           "ipad": {
@@ -33,23 +27,17 @@
             "itemSize": "{320, 550.8266666666667}",
             "screenshots": [
               {
-              "accessibilityText": "Screenshot",
-              "url": "https://i.imgur.com/ea4PTM5.png",
-              "fullSizeURL": "https://i.imgur.com/ea4PTM5.png"
-            },
-
-            {
-              "accessibilityText": "Screenshot",
-              "url": "https://i.imgur.com/PPhtY9S.png",
-              "fullSizeURL": "https://i.imgur.com/PPhtY9S.png"
-            }
+                "accessibilityText": "Screenshot",
+                "url": "https://media.discordapp.net/attachments/566731171744972801/566759766354034728/Img2.PNG?size=640",
+                "fullSizeURL": "https://media.discordapp.net/attachments/566731171744972801/566759766354034728/Img2.PNG"
+              }
             ],
             "class": "DepictionScreenshotView"
           },
           "class": "DepictionScreenshotsView"
         },
         {
-          "markdown": "Removes table cell \">\" arrows.",
+          "markdown": "Removes table cell > arrows.",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
@@ -61,7 +49,7 @@
           "class": "DepictionHeaderView"
         },
         {
-          "markdown": "",
+          "markdown": "None",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
@@ -89,12 +77,12 @@
         },
         {
           "title": "Developer",
-          "text": "Hydri <twitchtv.hydri@gmail.com>",
+          "text": "Hydri",
           "class": "DepictionTableTextView"
         },
         {
           "title": "Contact Support",
-          "action": "twitchtv.hydri@gmail.com",
+          "action": "https://hydridev.github.io/repo/",
           "class": "DepictionTableButtonView"
         },
         {
