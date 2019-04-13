@@ -14,7 +14,14 @@
 		<description>Removes table cell ">" arrows.</description>
 	</descriptionlist>
 	<screenshots>
-		<image href="C:\Users\khali\Documents\GitHub\repo\depictions\com.hydri.noarrows\screenshots\shot1.jpg"/>
+		<screenshot>
+			<description></description>
+			<image>Img1.png</image>
+		</screenshot>
+		<screenshot>
+			<description></description>
+			<image>Img2.png</image>
+		</screenshot>
 	</screenshots>
 	<changelog>
 		<version>1.0.0</version>
