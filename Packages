@@ -14,6 +14,7 @@ Description: Removes table cell ">" arrows.
 Author: Hydri <twitchtv.hydri@gmail.com>
 Name: NoArrows
 Depiction: https://hydridev.github.io/repo/depictions/?p=com.hydri.noarrows
+SileoDepiction: https://hydridev.github.io/repo/sileodepictions/?p=com.hydri.noarrows
 
 Package: com.hydri.sbtaps
 Version: 1.0.0-3+debug
@@ -31,4 +32,3 @@ Description: When you click Wifi bars it turns off wifi, Cellular bars turns on 
 Author: Hydri <twitchtv.hydri@gmail.com>
 Name: SBTaps
 Depiction: https://hydridev.github.io/repo/depictions/?p=com.hydri.sbtaps
-
