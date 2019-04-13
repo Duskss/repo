@@ -14,15 +14,7 @@
 		<description>Removes table cell ">" arrows.</description>
 	</descriptionlist>
 	<screenshots>
-		<image>
-
-<src>screenshots/shot1.jpeg</src>
-
-<height units="pixels"> 1334</height>
-
-<width units="pixels"> 750</width>
-
-</image>
+		<image href="C:\Users\khali\Documents\GitHub\repo\depictions\com.hydri.noarrows\screenshots\shot1.jpg"/>
 	</screenshots>
 	<changelog>
 		<version>1.0.0</version>
