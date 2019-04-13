@@ -13,6 +13,9 @@
 	<descriptionlist>
 		<description>Removes table cell ">" arrows.</description>
 	</descriptionlist>
+	<screenshots>
+		<img src="screenshots/shot1.jpg" />
+	</screenshots>
 	<changelog>
 		<version>1.0.0</version>
 		<change>Initial release</change>
