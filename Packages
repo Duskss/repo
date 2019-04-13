@@ -8,7 +8,7 @@ Maintainer: Hydri <twitchtv.hydri@gmail.com>
 Author: Hydri <twitchtv.hydri@gmail.com>
 Section: Tweaks
 Filename: ./debs/com.hydri.sbtaps.deb
-Dipiction: https://hydridev.github.io/repo/depictions/?p=com.hydri.sbtaps
+Depiction: https://hydridev.github.io/repo/depictions/?p=com.hydri.sbtaps
 Size: 13632
 MD5sum: 0624550d9b5c81fafc193b4d01e608c8
 
@@ -22,6 +22,6 @@ Maintainer: Hydri <twitchtv.hydri@gmail.com>
 Author: Hydri <twitchtv.hydri@gmail.com>
 Section: Tweaks
 Filename: ./debs/com.hydri.noarrows.deb
-Dipiction: https://hydridev.github.io/repo/depictions/?p=com.hydri.noarrows
+Depiction: https://hydridev.github.io/repo/depictions/?p=com.hydri.noarrows
 Size: 4472
 MD5sum: b28fda38877d1513729b4d0ebb941150
