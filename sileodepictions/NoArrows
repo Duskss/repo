@@ -1,8 +1,8 @@
 {
-  "class":"DepictionTabView",
   "minVersion": "0.1",
   "headerImage": "https://i.vgy.me/r9WiHi.png",
   "tintColor": "#00FFFF",
+  "class":"DepictionTabView",
   "tabs": [
     {
       "tabname": "Details",
