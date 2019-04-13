@@ -1,27 +1,35 @@
-Package: com.hydri.sbtaps
-Name: SBTaps
-Depends: mobilesubstrate
+Package: com.hydri.noarrows
 Version: 1.0.0
 Architecture: iphoneos-arm
-Description: When you click Wifi bars it turns off wifi, Cellular bars turns on wifi, Battery turns on/off low power mode, Airplane turns off airplane mode, Swipe right on status bar to increase brightness by %10, Swipe left to decrease brightness by 10% (Brightness swipes only work in springboard) and long press on any of them to go to corresponding settings pages.
 Maintainer: Hydri <twitchtv.hydri@gmail.com>
-Author: Hydri <twitchtv.hydri@gmail.com>
+Installed-Size: 117
+Depends: mobilesubstrate
+Filename: debs/com.hydri.noarrows.deb
+Size: 3704
+MD5sum: 2c44aa6e811fdd9245eeba55e531c6d5
+SHA1: d46898cb0152c2d4795826a715f6a8c94ccff369
+SHA256: a8a904b7c9c48eb965c50050d9a6350f082f3277a898e1e7d2ea229daa255382
 Section: Tweaks
-Filename: ./debs/com.hydri.sbtaps.deb
-Depiction: https://hydridev.github.io/repo/depictions/?p=com.hydri.sbtaps
+Description: Removes table cell ">" arrows.
+Author: Hydri <twitchtv.hydri@gmail.com>
+Depiction: https://hydridev.github.io/repo/depictions/?p=com.hydri.noarrows
+Name: NoArrows
+Depiction: https://hydridev.github.io/repo/depictions/?p=com.hydri.noarrows
+
+Package: com.hydri.sbtaps
+Version: 1.0.0-3+debug
+Architecture: iphoneos-arm
+Maintainer: Hydri <twitchtv.hydri@gmail.com>
+Installed-Size: 125
+Depends: mobilesubstrate
+Filename: debs/com.hydri.sbtaps.deb
 Size: 13632
 MD5sum: 0624550d9b5c81fafc193b4d01e608c8
-
-Package: com.hydri.noarrows
-Name: NoArrows
-Depends: mobilesubstrate
-Version: 1.0.0
-Architecture: iphoneos-arm
-Description: Removes table cell ">" arrows.
-Maintainer: Hydri <twitchtv.hydri@gmail.com>
-Author: Hydri <twitchtv.hydri@gmail.com>
+SHA1: 9b7ecfef3558e067379b2e71223e509154f18113
+SHA256: 37defa4e7fbd3dc6d34eb867607a97e1e18dc286279ce2f95a2d445d68af8169
 Section: Tweaks
-Filename: ./debs/com.hydri.noarrows.deb
-Depiction: https://hydridev.github.io/repo/depictions/?p=com.hydri.noarrows
-Size: 4472
-MD5sum: b28fda38877d1513729b4d0ebb941150
+Description: When you click Wifi bars it turns off wifi, Cellular bars turns on wifi, Battery turns on/off low power mode.
+Author: Hydri <twitchtv.hydri@gmail.com>
+Name: SBTaps
+Depiction: https://hydridev.github.io/repo/depictions/?p=com.hydri.sbtaps
+
