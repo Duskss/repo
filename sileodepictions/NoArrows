@@ -19,8 +19,13 @@
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
-              "url": "https://media.discordapp.net/attachments/566731171744972801/566759766354034728/Img2.PNG",
-              "fullSizeURL": "https://media.discordapp.net/attachments/566731171744972801/566759766354034728/Img2.PNG"
+              "url": "https://i.imgur.com/ea4PTM5.png",
+              "fullSizeURL": "https://i.imgur.com/ea4PTM5.png"
+            },
+            {
+                "accessibilityText": "Screenshot",
+                "url": "https://i.imgur.com/PPhtY9S.png",
+                "fullSizeURL": "https://i.imgur.com/PPhtY9S.png"
             }
           ],
           "ipad": {
@@ -28,9 +33,14 @@
             "itemSize": "{320, 550.8266666666667}",
             "screenshots": [
               {
+              "accessibilityText": "Screenshot",
+              "url": "https://i.imgur.com/ea4PTM5.png",
+              "fullSizeURL": "https://i.imgur.com/ea4PTM5.png"
+              },
+              {
                 "accessibilityText": "Screenshot",
-                "url": "https://media.discordapp.net/attachments/566731171744972801/566759766354034728/Img2.PNG?size=640",
-                "fullSizeURL": "https://media.discordapp.net/attachments/566731171744972801/566759766354034728/Img2.PNG"
+                "url": "https://i.imgur.com/PPhtY9S.png",
+                "fullSizeURL": "https://i.imgur.com/PPhtY9S.png"
               }
             ],
             "class": "DepictionScreenshotView"
@@ -83,7 +93,7 @@
         },
         {
           "title": "Contact Support",
-          "action": "https://hydridev.github.io/repo/",
+          "action": "twitchtv.hydri@gmail.com",
           "class": "DepictionTableButtonView"
         },
         {
