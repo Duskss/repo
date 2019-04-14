@@ -1,6 +1,6 @@
 {
   "minVersion": "0.1",
-  "headerImage": "https://i.imgur.com/Jrki7xi.png",
+  "headerImage": "https://i.imgur.com/JxUdbtu.jpg",
   "tintColor": "#00FFFF",
   "class":"DepictionTabView",
   "tabs": [
@@ -93,7 +93,7 @@
         },
         {
           "title": "Contact Support",
-          "action": "twitchtv.hydri@gmail.com",
+          "action": "https://hydridev.github.io/repo/",
           "class": "DepictionTableButtonView"
         },
         {
