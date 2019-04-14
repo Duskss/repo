@@ -1,6 +1,6 @@
 {
   "minVersion": "0.1",
-  "headerImage": "",
+  "headerImage": "https://i.imgur.com/Jrki7xi.png",
   "tintColor": "#00FFFF",
   "class":"DepictionTabView",
   "tabs": [
