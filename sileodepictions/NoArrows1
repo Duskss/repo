@@ -2,6 +2,7 @@
   "minVersion": "0.1",
   "headerImage": "https://i.vgy.me/r9WiHi.png",
   "tintColor": "#00FFFF",
+  "class":"DepictionTabView",
   "tabs": [
     {
       "tabname": "Details",
@@ -37,7 +38,7 @@
           "class": "DepictionScreenshotsView"
         },
         {
-          "markdown": "Removes table cell \">\" arrows.",
+          "markdown": "Removes table cell > arrows.",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
@@ -82,7 +83,7 @@
         },
         {
           "title": "Contact Support",
-          "action": "https://github.com/HydriDev/repo",
+          "action": "https://hydridev.github.io/repo/",
           "class": "DepictionTableButtonView"
         },
         {
@@ -118,6 +119,5 @@
       ],
       "class": "DepictionStackView"
     }
-  ],
-  "class": "DepictionTabView"
+  ]
 }
