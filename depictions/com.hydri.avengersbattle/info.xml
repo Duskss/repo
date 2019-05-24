@@ -1,0 +1,21 @@
+<package>
+	<id>com.hydri.avengersbattle</id>
+	<name>AvengersBattle</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<descriptionlist>
+		<description>Do you love the Avengers? I do! (Fork of ThanosDance by BrianValente)</description>
+	</descriptionlist>
+	<changelog>
+		<version>1.0</version>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
