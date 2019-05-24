@@ -13,22 +13,6 @@
           "class": "DepictionSubheaderView"
         },
         {
-          "itemCornerRadius": 6,
-          "itemSize": "{160, 275.41333333333336}",
-          "screenshots": [
-            
-          ],
-          "ipad": {
-            "itemCornerRadius": 9,
-            "itemSize": "{320, 550.8266666666667}",
-            "screenshots": [
-              
-            ],
-            "class": "DepictionScreenshotView"
-          },
-          "class": "DepictionScreenshotsView"
-        },
-        {
           "markdown": "Do you love the Avengers? I do! (Fork of ThanosDance by BrianValente)",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
