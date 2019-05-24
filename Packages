@@ -40,10 +40,10 @@ Maintainer: Hydri
 Installed-Size: 5536
 Depends: mobilesubstrate
 Filename: ./debs/com.hydri.avengersbattle.deb
-Size: 5621086
-MD5sum: bed1e256c5ee6c37b97508ecab0f2574
-SHA1: 10ce8d051c683e944dffe2be56a4d5f2ff59f1d8
-SHA256: 2ef4cd81cb3fa628375c262b9cb30b66986c55876ceaff59664d6e27d26d1d91
+Size: 5620336
+MD5sum: 3256a62089f031bd3e2b095fe05298bf
+SHA1: 660eee7beba95f33c750fe69d2dad4c1896c8f55
+SHA256: 2a5244b9e3fcbbed50b1d40414526c582196ce938b3ae06c70c170d5522ff9d9
 Section: Tweaks
 Description: Do you love the Avengers? I do! (Fork of ThanosDance by BrianValente)
 Author: Hydri
