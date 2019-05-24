@@ -39,7 +39,7 @@ Architecture: iphoneos-arm
 Maintainer: Hydri <twitchtv.hydri@gmail.com>
 Installed-Size: 5536
 Depends: mobilesubstrate
-Filename: debs/com.hydri.avengersbattle.deb
+Filename: ./debs/com.hydri.avengersbattle.deb
 Size: 5621086
 MD5sum: BED1E256C5EE6C37B97508ECAB0F2574
 SHA1: 10CE8D051C683E944DFFE2BE56A4D5F2FF59F1D8
