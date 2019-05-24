@@ -36,7 +36,7 @@ Depiction: https://hydridev.github.io/repo/depictions/?p=com.hydri.sbtaps
 Package: com.hydri.avengersbattle
 Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: Hydri <twitchtv.hydri@gmail.com>
+Maintainer: Hydri
 Installed-Size: 5536
 Depends: mobilesubstrate
 Filename: ./debs/com.hydri.avengersbattle.deb
@@ -46,7 +46,7 @@ SHA1: 10ce8d051c683e944dffe2be56a4d5f2ff59f1d8
 SHA256: 2ef4cd81cb3fa628375c262b9cb30b66986c55876ceaff59664d6e27d26d1d91
 Section: Tweaks
 Description: Do you love the Avengers? I do! (Fork of ThanosDance by BrianValente)
-Author: Hydri <twitchtv.hydri@gmail.com>
+Author: Hydri
 Name: AvengersBattle
 Depiction: https://hydridev.github.io/repo/depictions/?p=com.hydri.avengersbattle
 SileoDepiction: https://raw.githubusercontent.com/HydriDev/repo/gh-pages/sileodepictions/AvengersBattle
