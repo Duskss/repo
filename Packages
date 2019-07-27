@@ -59,9 +59,9 @@ Installed-Size: 260
 Depends: mobilesubstrate
 Filename: ./debs/com.hydri.duplexclock.deb
 Size: 16730
-MD5sum: C56E06BCDB11E009FDBA6E8E63819815
-SHA1: 46230ACA33CDBFD868B93B8EF58B10179AD9FC0A
-SHA256: 4196302B239E1539E0EFB58EDD670C920EDF41611DBD47F960359A3A4BDF5412
+MD5sum: c56e06bcdb11e009fdba6e8e63819815
+SHA1: 46230aca33cdbfd868b93b8ef58b10179ad9fc0a
+SHA256: 4196302b239e1539e0efb58edd670c920edf41611dbd47f960359a3a4bdf5412
 Section: Tweaks
 Description: Second Clock in Statusbar for different timezone. An updated version of DuplexClock by sharedRoutine for A12 by Hydri
 Author: Hydri
