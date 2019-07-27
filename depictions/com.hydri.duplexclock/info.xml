@@ -1,0 +1,21 @@
+<package>
+	<id>com.hydri.duplexclock</id>
+	<name>DuplexClock</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<descriptionlist>
+		<description>Second Clock in Statusbar for different timezone. An updated version of DuplexClock by sharedRoutine for A12 by Hydri.</description>
+	</descriptionlist>
+	<changelog>
+		<version>1.0</version>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>

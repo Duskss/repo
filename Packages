@@ -50,3 +50,21 @@ Author: Hydri
 Name: AvengersBattle
 Depiction: https://hydridev.github.io/repo/depictions/?p=com.hydri.avengersbattle
 SileoDepiction: https://raw.githubusercontent.com/HydriDev/repo/gh-pages/sileodepictions/AvengersBattle
+
+Package: com.hydri.duplexclock
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Hydri
+Installed-Size: 260
+Depends: mobilesubstrate
+Filename: ./debs/com.hydri.duplexclock.deb
+Size: 16730
+MD5sum: C56E06BCDB11E009FDBA6E8E63819815
+SHA1: 46230ACA33CDBFD868B93B8EF58B10179AD9FC0A
+SHA256: 4196302B239E1539E0EFB58EDD670C920EDF41611DBD47F960359A3A4BDF5412
+Section: Tweaks
+Description: Second Clock in Statusbar for different timezone. An updated version of DuplexClock by sharedRoutine for A12 by Hydri
+Author: Hydri
+Name: DuplexClock
+Depiction: https://hydridev.github.io/repo/depictions/?p=com.hydri.duplexclock
+SileoDepiction: https://raw.githubusercontent.com/HydriDev/repo/gh-pages/sileodepictions/DuplexClock
