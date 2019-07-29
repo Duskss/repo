@@ -111,7 +111,7 @@
       "tabname": "Changelog",
       "views": [
         {
-          "title": "1.0.0-3+debug",
+          "title": "1.0.0-4+debug",
           "useBoldText": true,
           "useBottomMargin": true,
           "class": "DepictionSubheaderView"
