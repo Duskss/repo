@@ -1,14 +1,14 @@
 Package: com.hydri.noarrows
-Version: 1.0.0
+Version: 1.0.0-3+debug
 Architecture: iphoneos-arm
 Maintainer: Hydri <twitchtv.hydri@gmail.com>
 Installed-Size: 117
 Depends: mobilesubstrate
 Filename: debs/com.hydri.noarrows.deb
-Size: 3704
-MD5sum: 2c44aa6e811fdd9245eeba55e531c6d5
-SHA1: d46898cb0152c2d4795826a715f6a8c94ccff369
-SHA256: a8a904b7c9c48eb965c50050d9a6350f082f3277a898e1e7d2ea229daa255382
+Size: 4510
+MD5sum: de93ceb2410578611fae8a834f507d17
+SHA1: 0245d24e90bad3792883b4abd8dee6e2f46c30ae
+SHA256: b54cc0d6d8ee43b9dac056f01f2505734eed164b1a568750c40d0af4d4b7569a
 Section: Tweaks
 Description: Removes table cell ">" arrows.
 Author: Hydri <twitchtv.hydri@gmail.com>
