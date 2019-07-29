@@ -2,6 +2,8 @@
 	<changes>
 		<version>1.0.0-3+debug</version>
 		<change>Added A12</change>
+	</changes>
+	<changes>
 		<version>1.0.0</version>
 		<change>Initial release</change>
 	</changes>
